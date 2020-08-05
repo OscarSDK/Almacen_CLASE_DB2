@@ -17,6 +17,11 @@ public class ProyectoDB2 {
     public static void main(String[] args) {
        int x=2;
         System.out.println("Valor :"+x);
+         System.out.println("Valor 1:"+x);
+         System.out.println("Valor 2:"+x);
+         System.out.println("Valor 3:"+x);
+         System.out.println("Valor 4:"+x);
+        
     }
     
 }

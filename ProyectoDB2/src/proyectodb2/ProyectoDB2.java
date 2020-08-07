@@ -36,6 +36,10 @@ public class ProyectoDB2 {
         //---------Graysi Angela Granada Cruz--------
        String Graysi="Graysi Angela Granada Cruz";
        System.out.print("Mi Nombre es: "+Graysi);
+       
+        //-------------Karen Aranivar----------//
+        String Karen="Karen Aranivar";
+        System.out.println("Mi nombre es:"+ Karen);
         
     }
     

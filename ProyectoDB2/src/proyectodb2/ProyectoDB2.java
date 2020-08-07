@@ -46,7 +46,9 @@ public class ProyectoDB2 {
         //-------------victo David Torresr----------//
          String victor="VICTOR DAVID TORRES RAMOS";
         System.out.println("Mi nombre es:"+ victor);
-        
+        //---------otra vez pero esa vez por github-------//
+        String Karen1="Karen"
+            System.out.println("Hello  " +Karen1)
         
         
         

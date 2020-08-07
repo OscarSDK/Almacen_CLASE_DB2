@@ -27,6 +27,9 @@ public class ProyectoDB2 {
        //----------Maggy Jara----------------------
        String maggy="Maggy Jara Gamarra";
         System.out.println("Mi nombre es: "+maggy);
+        //--------------yhino-------------------------
+           String yhino="yerson yhino huanca hermoza";
+        System.out.println("Mi nombre es: "+yhino);
         
     }
     

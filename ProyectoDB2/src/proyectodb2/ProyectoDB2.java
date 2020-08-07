@@ -30,6 +30,9 @@ public class ProyectoDB2 {
         //--------------yhino-------------------------
            String yhino="yerson yhino huanca hermoza";
         System.out.println("Mi nombre es: "+yhino);
+          //--------------marinil-------------------------
+           String marinil="Marinil velasquez Hancco";
+        System.out.println("Mi nombre es: "+ marinil);
         
     }
     

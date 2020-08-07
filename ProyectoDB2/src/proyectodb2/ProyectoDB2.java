@@ -47,6 +47,12 @@ public class ProyectoDB2 {
         //***********JOSE LUIS CONDO CHOQQUE*******************
         String Jose_Luis=" JOSE LUIS CONDO CHOQQUE";
         System.out.println("Mi nombre es"+ Jose_Luis);
+        
+        //----------------SHANELY CHURA RODRIGUEZ---------------
+        String Shanely="Shanely Chura Rodriguez";
+        System.out.println("Mi nombre es"+ Shanely);
+        //------------------------------------------------------
+        
     }
     
 }

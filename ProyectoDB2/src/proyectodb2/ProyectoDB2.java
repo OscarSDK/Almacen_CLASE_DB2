@@ -49,8 +49,8 @@ public class ProyectoDB2 {
         System.out.println("Mi nombre es"+ Jose_Luis);
         
         //----------------SHANELY CHURA RODRIGUEZ---------------
-        String Shanely="Shanely Chura Rodriguez";
-        System.out.println("Mi nombre es"+ Shanely);
+        String Shanely_Chura="Shanely Chura Rodriguez";
+        System.out.println("Mi nombre es"+ Shanely_Chura);
         //------------------------------------------------------
         
     }

@@ -18,7 +18,9 @@ public class ProyectoDB2 {
         //----------- OSCAR-,----------------------
         String oscar="oscar";
         System.out.println("Mi nombre es: "+oscar);
-       
+       //---------Elvis dan ramos tecse--------
+       String Elvis="Elvis Dan Ramos Tecse";
+       System.out.print("Mi Nombre es: "+Elvis);
                 
         
     }

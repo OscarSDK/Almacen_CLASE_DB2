@@ -43,6 +43,13 @@ public class ProyectoDB2 {
         
         String Encarnacion="Encarnacion";
         System.out.println("Mi nombre es:"+ Encarnacion);
+        //-------------victo David Torresr----------//
+         String victor="VICTOR DAVID TORRES RAMOS";
+        System.out.println("Mi nombre es:"+ victor);
+        
+        
+        
+        
     }
     
 }

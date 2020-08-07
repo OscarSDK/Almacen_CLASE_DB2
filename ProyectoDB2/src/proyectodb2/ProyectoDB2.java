@@ -47,8 +47,9 @@ public class ProyectoDB2 {
          String victor="VICTOR DAVID TORRES RAMOS";
         System.out.println("Mi nombre es:"+ victor);
         //---------otra vez pero esa vez por github-------//
-        String Karen1="Karen"
-            System.out.println("Hello  " +Karen1)
+        String Karen1="Karen";
+        System.out.println("Hello  " +Karen1);
+        //siempre se olvidan el fin de sentencia
         
         
         

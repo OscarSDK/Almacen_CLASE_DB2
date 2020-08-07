@@ -25,6 +25,9 @@ public class ProyectoDB2 {
         System.out.println("Valor 5:"+y);
         int z=4;
         System.out.println("Valor 6:"+z);
+        //encarnacion revisa porfavor 
+        int a=5;
+        System.out.println("Valor 6:"+a);
         
     }
     

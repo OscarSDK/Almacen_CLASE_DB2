@@ -23,7 +23,10 @@ public class ProyectoDB2 {
        System.out.print("Mi Nombre es: "+Elvis);
        //---------Diego Armando Choque Caceres--------
        String Armando="Diego Armando Choque Caceres";
-       System.out.print("Mi Nombre es: "+Armando);         
+       System.out.print("Mi Nombre es: "+Armando);    
+       //----------Maggy Jara----------------------
+       String maggy="Maggy Jara Gamarara";
+        System.out.println("Mi nombre es: "+maggy);
         
     }
     

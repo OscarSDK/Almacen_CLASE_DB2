@@ -23,6 +23,8 @@ public class ProyectoDB2 {
         System.out.println("Valor 4:"+x);
         int y=3;
         System.out.println("Valor 5:"+y);
+        int z=4;
+        System.out.println("Valor 6:"+z);
         
     }
     

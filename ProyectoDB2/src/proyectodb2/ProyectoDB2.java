@@ -15,19 +15,11 @@ public class ProyectoDB2 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        int x=2;
-        System.out.println("Valor :"+x);
-        System.out.println("Valor 1:"+x);
-        System.out.println("Valor 2:"+x);
-        System.out.println("Valor 3:"+x);
-        System.out.println("Valor 4:"+x);
-        int y=3;
-        System.out.println("Valor 5:"+y);
-        int z=4;
-        System.out.println("Valor 6:"+z);
-        //encarnacion revisa porfavor 
-        int a=5;
-        System.out.println("Valor 6:"+a);
+        //----------- OSCAR-,----------------------
+        String oscar="oscar";
+        System.out.println("Mi nombre es: "+oscar);
+       
+                
         
     }
     

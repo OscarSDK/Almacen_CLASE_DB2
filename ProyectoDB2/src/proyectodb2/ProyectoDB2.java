@@ -41,6 +41,8 @@ public class ProyectoDB2 {
         String Karen="Karen Aranivar";
         System.out.println("Mi nombre es:"+ Karen);
         
+        String Encarnacion="Encarnacion";
+        System.out.println("Mi nombre es:"+ Encarnacion);
     }
     
 }
